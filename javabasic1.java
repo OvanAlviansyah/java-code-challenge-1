@@ -6,17 +6,12 @@ public class javabasic1{
         String  firstname   = "Ovan Fifat ";
         String  lastname    = "Alviansyah";
         int     age         = 19;
-        String  phone       = "082259961216";
-        String  address     = "Penawar Rejo";
+        String  phonenumber = "0822-5996-1216";
+        String  address     = "Metro Barat, Metro, Lampung.";
         char    bloodtype   = 'B';
-        String  hobby       = "something related to coding and design";
+        String  hobby       = "Something related to coding and design";
 
-        System.out.println("Name         = "+firstname + lastname);
-        System.out.println("Age          = "+age+"th");
-        System.out.println("Number Phone = "+phone);
-        System.out.println("Address      = "+address);
-        System.out.println("Blood Type   = "+bloodtype);
-        System.out.println("Hobby        = "+hobby);
+        System.out.println("Name         = "+firstname + lastname + "\n" + "Age          = " + age + "th" + "\n" + "Number Phone = " + phonenumber + "\n" + "Address      = " + address + "\n" + "Blood Type   = " + bloodtype + "\n" + "Hobby        = " + hobby);
     }
     
 }
