@@ -1,4 +1,4 @@
-public class javabasic1{
+public class javabasic{
     //function is a method
     public static void main (String[] args){
         // first name , lastname, age, phone number, address, and other
